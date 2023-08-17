@@ -1,0 +1,4 @@
+PORT=1688
+INTERFACE=ens33
+SERVER_CRT=/home/server/Downloads/server.crt
+SERVER_KEY=/home/server/Downloads/server.key
